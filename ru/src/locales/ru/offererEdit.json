@@ -1,12 +1,12 @@
 {
   "editYourProfile": "Edit your profile",
   "yourAccount": "Your Account",
-  "skills": "Skills",
+  "skills": "Навыки",
   "bio": "Bio",
   "myDeeds": "My Deeds",
   "firstName": "First Name",
   "lastName": "Last Name",
-  "jobTitle": "Job Title",
+  "jobTitle": "Должность",
   "email": "Email",
   "organization": "Company",
   "save": "Save changes",
@@ -15,5 +15,5 @@
   "saving": "Saving",
   "bioText": "Biography Text",
   "profilePhotos": "Profile Photos",
-  "postalCode": "Zipcode"
+  "postalCode": "Почтовый индекс"
 }
